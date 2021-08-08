@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Abrir Menu de Opções</string>
+    <string name="navigation_drawer_close">Fechar Menu de Opções</string>
+    <string name="nav_header_empresa">ATM Consultoria</string>
+    <string name="nav_header_email">atmconsultoria@gmail.com</string>
+    <string name="nav_header_desc">ATM Consultoria</string>
+
+    <string name="menu_principal">ATM Consultoria</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+</resources>

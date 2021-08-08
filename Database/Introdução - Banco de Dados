@@ -1,0 +1,24 @@
+Introdução - Banco de Dados
+
+Como os dados eram armazenados antes?
+-> Pelo papel/pastas/arquivos, causando problemas de otimização, espaço físico, dentre outros
+
+Atualmente:
+-> Registro/Tabelas/Banco de Dados: otimização
+
+SQL: Structured Query Language -> Linguagem de consulta estruturada, com objetivo de manipular dados em um banco de dados
+
+Criar Tabela/Banco de Dados: CREATE nome_tabela (atributos);
+Selecionar dados: SELECT nome_campos FROM nome_tabela
+	*Modificadores: WHERE nome_campo LIKE condicao
+Inserir dados: INSERT INTO nome_tabela (nome_campos) VALUES (valor1; valor2;...);
+Deletar dados: DELETE FROM nome_tabela WHERE nome_campo = condicao
+Atualizar dados: UPDATE nome_tabela SET nome_campo = valor_novo WHERE nome_campo = condicao
+
+Deletar tabela: DROP TABLE nome_tabela
+
+SGBD no Android: SQLite -> oficial, simples, leve, rápido e código-aberto (recomendado pela Google)
+
+
+SQLite
+

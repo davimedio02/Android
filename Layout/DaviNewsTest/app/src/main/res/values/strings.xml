@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Davi News - Test</string>
+    <string name="titulo_txt">Treino de Layout no Android Studio</string>
+    <string name="data_txt">21/12/2019</string>
+    <string name="texto_txt">
+        Lyrics coming at you at supersonic speed (J.J. Fad)\n\nUh, summa-lumma, dooma-lumma, you assuming I\'m a human\nWhat I gotta do to get it through to you? I\'m superhuman\nInnovative and I\'m made of rubber\nSo that anything you say is ricocheting off of me\nAnd it\'ll glue to you\nAnd I\'m devastating, more than ever demonstrating\nHow to give a mothafuckin audience a feeling like it\'s levitating\nNever fading, and I know the haters are forever waiting\nFor the day that they can say I fell off, they\'ll be celebrating\nCause I know the way to get \'em motivated\nI make elevating music, you make elevator music\n
+        \nUso do \'align\' nos componentes para alinhar (com dependência)
+        \nLembrar de alinhar os componentes de baixo com o texto.
+        \nUso do ScrollView no XML e fillViewport para preencher a tela toda.
+    </string>
+    <string name="autor_txt">Davi Neves</string>
+</resources>
