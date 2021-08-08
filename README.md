@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/davimedio01/android-projects">
+  <a href="https://github.com/davimedio01/android-minimal-projects">
     <img src="/logo.png" alt="Logo" >
   </a>
 
@@ -26,7 +26,7 @@
   <h3 align="center">project_title</h3>
   -->
 
-  <p align="center">A repository to store my projects (trainings or functional examples) made in Android Studio (Java/Kotlin)</p>
+  <p align="center">A repository to store my minimal projects (trainings and some functional examples) made in Android Studio (Java/Kotlin)</p>
 </p>
 
 
@@ -78,15 +78,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/davimedio01/android-projects.svg?style=for-the-badge
-[contributors-url]: https://github.com/davimedio01/android-projects/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/davimedio01/android-projects.svg?style=for-the-badge
-[forks-url]: https://github.com/davimedio01/android-projects/network/members
-[stars-shield]: https://img.shields.io/github/stars/davimedio01/android-projects.svg?style=for-the-badge
-[stars-url]: https://github.com/davimedio01/android-projects/stargazers
-[issues-shield]: https://img.shields.io/github/issues/davimedio01/android-projects.svg?style=for-the-badge
-[issues-url]: https://github.com/davimedio01/android-projects/issues
-[license-shield]: https://img.shields.io/github/license/davimedio01/android-projects.svg?style=for-the-badge
-[license-url]: https://github.com/davimedio01/android-projects/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/davimedio01/android-minimal-projects.svg?style=for-the-badge
+[contributors-url]: https://github.com/davimedio01/android-minimal-projects/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/davimedio01/android-minimal-projects.svg?style=for-the-badge
+[forks-url]: https://github.com/davimedio01/android-minimal-projects/network/members
+[stars-shield]: https://img.shields.io/github/stars/davimedio01/android-minimal-projects.svg?style=for-the-badge
+[stars-url]: https://github.com/davimedio01/android-minimal-projects/stargazers
+[issues-shield]: https://img.shields.io/github/issues/davimedio01/android-minimal-projects.svg?style=for-the-badge
+[issues-url]: https://github.com/davimedio01/android-minimal-projects/issues
+[license-shield]: https://img.shields.io/github/license/davimedio01/android-minimal-projects.svg?style=for-the-badge
+[license-url]: https://github.com/davimedio01/android-minimal-projects/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davi-augusto
